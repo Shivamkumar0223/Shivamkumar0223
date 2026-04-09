@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate Full-Stack Ai & Blockchain Engineer from India</h3>
+<h3 align="center">A passionate Full-Stack Ai Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar0223" /> </p>
 
