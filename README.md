@@ -1,103 +1,110 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-
-<h3 align="center">Full-Stack AI Developer | Founder of Orin AI</h3>
+<!-- ANIMATED HEADER -->
 
 <p align="center">
-  Building AI-powered applications, intelligent automation tools, and modern web experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=SHIVAM%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descAlignY=58&animation=fadeIn" width="100%" alt="Shivam Kumar" />
 </p>
 
+<!-- TYPING ANIMATION -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+and+Building+Every+Day" alt="Animated introduction" />
+</p>
+
+<!-- PROFILE BADGES -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivamkumar48725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-* 👨‍💻 Full-Stack AI Developer passionate about building AI-powered products.
-* 🚀 Building **Orin AI**, an AI-powered website creation and automation platform.
-* 🤖 Interested in Generative AI, AI Agents, and intelligent automation.
-* 🌱 Continuously learning and improving my development skills.
-* 🎓 Master of Computer Applications (MCA) — Amity University Kolkata.
-* 📫 Email: **[shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)**
+Hi! I'm **Shivam Kumar**, a developer with an MCA degree from Amity University Kolkata.
 
-### 🛠️ Languages and Tools
+I'm passionate about building modern web applications, exploring AI-powered technologies, and creating useful digital products.
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
-  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+* 💻 Interested in full-stack web development.
+* ⚛️ Exploring the React and Node.js ecosystem.
+* 🤖 Learning about AI integration and application development.
+* ☁️ Exploring cloud computing and modern deployment tools.
+* 🚀 Improving my skills through hands-on projects.
+* 📚 Always learning, experimenting, and building.
+
+**My goal:** To turn ideas into useful, modern, and reliable applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" alt="Frontend technologies" />
 </p>
 
-### 🚀 Featured Project
+### ⚙️ Backend & Databases
 
-<h3>Orin AI</h3>
-
-<p>
-  Building an AI-powered platform designed to help developers and creators generate, customize, and deploy websites using AI.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase" alt="Backend and database technologies" />
 </p>
 
-* 🤖 AI-powered website generation
-* 🎨 Website editing and customization
-* ⚡ AI agent and automation workflows
+### 🤖 AI, Cloud & Development Tools
 
-<p>
-  🌐 <a href="https://orin-two.vercel.app/">Visit Orin AI</a>
-  <br />
-  💻 <a href="https://github.com/shivamkumar0223?tab=repositories">Explore My Repositories</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,vscode,postman,docker" alt="AI, cloud, and development tools" />
 </p>
 
-### 🤝 Connect With Me
+### 📱 Mobile Development
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://github.com/shivamkumar0223" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/825413" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="40" />
-  </a>
-</p>
-
-📧 **Email:** [shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)
-
-### 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0223&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=shivamkumar0223&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile development technologies" />
 </p>
 
 ---
 
+## 💻 Coding in Action
+
 <p align="center">
-  <i>Building, learning, and turning ideas into reality. 🚀</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer coding animation" />
+</p>
+
+<p align="center">
+  <i>Building, learning, debugging, and improving one project at a time.</i>
+</p>
+
+---
+
+## 🧊 My 3D GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://github.com/shivamkumar0223">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="mailto:shivamkumar48725@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shivam" />
+  </a>
+</p>
+
+<!-- ANIMATED FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="Animated footer" />
 </p>
