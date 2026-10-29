@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar0223" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar0223" alt="shivamkumar0223" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar0223" alt="https://shivamsk-portfolio.netlify.app/" /></a> </p>
 
 - 📫 How to reach me **shivamkumar48725@gmail.com**
 
