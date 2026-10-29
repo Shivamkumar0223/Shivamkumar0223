@@ -1,4 +1,5 @@
 ```html
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:06B6D4&height=230&section=header&text=SHIVAM%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=17&descAlignY=60&stroke=22D3EE&strokeWidth=1" alt="Animated profile header"/>
@@ -16,9 +17,11 @@
 <a href="https://github.com/shivamkumar0223">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:shivamkumar48725@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -98,11 +101,11 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Journey
 
 <div align="center">
 
-<p><i>Every contribution is a step forward. Keep building and growing!</i></p>
+<p><i>Keep contributing. Keep growing!</i></p>
 
 <picture>
   <source
@@ -147,7 +150,7 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 <br/><br/>
 
-### 💡 Dream big. Build consistently. Never stop learning.
+<h3>💡 Dream big. Build consistently. Never stop learning.</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+building.+Keep+growing." alt="Animated farewell"/>
 
@@ -155,4 +158,5 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=140&section=footer&animation=twinkling" alt="Animated footer"/>
 ```
+
 
