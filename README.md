@@ -1,141 +1,111 @@
-<div align="center">
+<!-- ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:2563eb&height=200&section=header&text=SHIVAM%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" alt="Shivam Kumar Banner"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=SHIVAM%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descAlignY=58&animation=fadeIn" width="100%" alt="Shivam Kumar" />
+</p>
 
-<br/>
+<!-- TYPING ANIMATION -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Intelligent+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated Developer Introduction"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+and+Building+Every+Day" alt="Animated introduction" />
+</p>
 
-<br/><br/>
+<!-- PROFILE BADGES -->
 
-<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/shivamkumar0223?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivamkumar48725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Shivam Kumar**, a developer passionate about building modern web applications and exploring the possibilities of Artificial Intelligence.
+Hi! I'm **Shivam Kumar**, a developer with an MCA degree from Amity University Kolkata.
 
-* 💻 **Full-Stack Development:** Building responsive and user-friendly web applications.
-* 🤖 **Artificial Intelligence:** Exploring generative AI, AI agents, and intelligent automation.
-* ⚙️ **Backend & Databases:** Learning to build reliable application backends and data-driven systems.
-* ☁️ **Cloud Computing:** Exploring cloud technologies and scalable application infrastructure.
-* 🎓 **Education:** Master of Computer Applications (MCA), Amity University Kolkata.
-* 🌱 **Currently:** Learning, experimenting, and improving my development skills.
-* 📫 **Email:** [shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)
+I'm passionate about building modern web applications, exploring AI-powered technologies, and creating useful digital products.
 
-<div align="center">
+* 💻 Interested in full-stack web development.
+* ⚛️ Exploring the React and Node.js ecosystem.
+* 🤖 Learning about AI integration and application development.
+* ☁️ Exploring cloud computing and modern deployment tools.
+* 🚀 Improving my skills through hands-on projects.
+* 📚 Always learning, experimenting, and building.
 
-### ⚡ My Developer Mindset
-
-*Turning ideas into code, challenges into solutions, and learning into progress.* 🚀
-
-</div>
+**My goal:** To turn ideas into useful, modern, and reliable applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" alt="Frontend technologies" />
+</p>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=dark" alt="Backend and Database Technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase" alt="Backend and database technologies" />
+</p>
 
-### 🤖 AI, Cloud & Developer Tools
+### 🤖 AI, Cloud & Development Tools
 
-<img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,figma&theme=dark" alt="AI Cloud and Developer Tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,vscode,postman,docker" alt="AI, cloud, and development tools" />
+</p>
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Development"/>
-
-</div>
-
----
-
-## 💻 Coding Mode: Activated
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated developer coding at a computer"/>
-
-<br/><br/>
-
-**Eat. Sleep. Code. Debug. Repeat.** ☕
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile development technologies" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Coding in Action
 
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer coding animation" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0223&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=shivamkumar0223&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak"/>
-
-</div>
+<p align="center">
+  <i>Building, learning, debugging, and improving one project at a time.</i>
+</p>
 
 ---
 
-## 🐍 Contribution Journey
+## 🧊 My 3D GitHub Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://github.com/shivamkumar0223">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="mailto:shivamkumar48725@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shivam" />
+  </a>
+</p>
 
-I'm always happy to connect with developers, exchange ideas, explore new technologies, and discuss opportunities to build meaningful digital products.
+<!-- ANIMATED FOOTER -->
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="Animated footer" />
+</p>
 
-<a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/shivamkumar0223">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-### ✨ Think Big. Build Consistently. Keep Learning.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=120&section=footer" alt="Footer Banner"/>
-
-</div>
