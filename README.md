@@ -1,80 +1,66 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:2563eb&height=200&section=header&text=SHIVAM%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" alt="Shivam Kumar"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:2563eb&height=200&section=header&text=SHIVAM%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" alt="Shivam Kumar Banner"/>
 
-<a href="https://github.com/shivamkumar0223">
-<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Intelligent+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated Developer Introduction"/>
 
 <br/><br/>
 
-<a href="https://github.com/shivamkumar0223">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Intelligent+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated Developer Introduction"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/shivamkumar0223?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Shivam Kumar";
-    this.role = "Full-Stack Developer";
-    this.education = "MCA — Amity University Kolkata";
+Hi, I'm **Shivam Kumar**, a developer passionate about building modern web applications and exploring the possibilities of Artificial Intelligence.
 
-    this.interests = [
-      "Artificial Intelligence",
-      "Web Development",
-      "AI Agents & Automation",
-      "Cloud Technologies"
-    ];
+* 💻 **Full-Stack Development:** Building responsive and user-friendly web applications.
+* 🤖 **Artificial Intelligence:** Exploring generative AI, AI agents, and intelligent automation.
+* ⚙️ **Backend & Databases:** Learning to build reliable application backends and data-driven systems.
+* ☁️ **Cloud Computing:** Exploring cloud technologies and scalable application infrastructure.
+* 🎓 **Education:** Master of Computer Applications (MCA), Amity University Kolkata.
+* 🌱 **Currently:** Learning, experimenting, and improving my development skills.
+* 📫 **Email:** [shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)
 
-    this.mindset = "Build. Learn. Innovate.";
-  }
+<div align="center">
 
-  sayHello() {
-    return "Thanks for visiting my GitHub! 🚀";
-  }
-}
+### ⚡ My Developer Mindset
 
-const shivam = new Developer();
-console.log(shivam.sayHello());
-```
+*Turning ideas into code, challenges into solutions, and learning into progress.* 🚀
 
-💡 I enjoy exploring modern technologies, building web applications, and discovering how AI can make software development smarter and more accessible.
-
-🎯 My goal is to turn creative ideas into useful digital products through continuous learning and hands-on development.
+</div>
 
 ---
 
-## ⚡ My Tech Universe
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=dark" alt="Backend and Database Technologies"/>
 
-### 🤖 AI, Cloud & Tools
+### 🤖 AI, Cloud & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,figma&theme=dark" alt="AI Cloud and Developer Tools"/>
 
@@ -90,17 +76,17 @@ console.log(shivam.sayHello());
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated programmer coding at a computer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated developer coding at a computer"/>
 
-<br/>
+<br/><br/>
 
-*Eat. Sleep. Code. Debug. Repeat.* ☕
+**Eat. Sleep. Code. Debug. Repeat.** ☕
 
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -110,13 +96,13 @@ console.log(shivam.sayHello());
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=shivamkumar0223&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=shivamkumar0223&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🐍 My Coding Journey
+## 🐍 Contribution Journey
 
 <div align="center">
 
@@ -126,27 +112,30 @@ console.log(shivam.sayHello());
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
+I'm always happy to connect with developers, exchange ideas, explore new technologies, and discuss opportunities to build meaningful digital products.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/shivamkumar0223">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### ✨ "Dream big. Keep building. Never stop learning."
+### ✨ Think Big. Build Consistently. Keep Learning.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=120&section=footer" alt="Animated footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=120&section=footer" alt="Footer Banner"/>
 
 </div>
-
