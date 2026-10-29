@@ -98,26 +98,40 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 
 ```html
----
 
-## 🐍 GitHub Contribution Snake
+```html
+
+<!-- 🐍 GITHUB CONTRIBUTION SNAKE -->
 
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
+  <h2>🐍 GitHub Contribution Journey</h2>
+  <p><i>Keep contributing. Keep growing!</i></p>
 
-  <br/><br/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake.svg">
+    <img
+      alt="Animated GitHub contribution snake eating contribution squares"
+      src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 
-  <sub>🐍 Every contribution tells a story of learning and growth.</sub>
+  <br>
+
+  <p>
+    🟩 Multiple contributions • 🐍 Animated snake • 🔄 Daily updates
+  </p>
 
 </div>
 
----
+<!-- END CONTRIBUTION SNAKE -->
 ```
+
 
 
 ## 🌐 Connect With Me
