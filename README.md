@@ -1,100 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:06B6D4&height=230&section=header&text=SHIVAM%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=17&descAlignY=60&stroke=22D3EE&strokeWidth=1" alt="Animated profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=220&section=header&text=SHIVAM%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=60" alt="Shivam Kumar animated header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Development;Exploring+Artificial+Intelligence;Building+Modern+Digital+Experiences;Learn.+Build.+Improve.+Repeat." alt="Animated typing introduction"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Building+for+the+Web+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Something+New+Every+Day+%F0%9F%8C%B1;Turning+Ideas+Into+Applications+%E2%9C%A8" alt="Animated developer introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/shivamkumar0223">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Shivam Kumar**, a developer passionate about web technologies, modern application development, and artificial intelligence.
-
-* 💻 Interested in full-stack web development.
-* ⚛️ Exploring modern frontend frameworks and backend technologies.
-* 🤖 Learning about AI integration and intelligent applications.
-* ☁️ Exploring cloud computing and developer tools.
-* 🚀 Focused on learning by building practical projects.
-* 🌱 Always improving my technical knowledge and problem-solving skills.
-
-**My goal:** To build useful, reliable, and user-friendly digital experiences while continuously growing as a developer.
-
----
-
-## ⚡ My Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark&perline=9" alt="Frontend technology icons"/>
-
-### ⚙️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&theme=dark&perline=6" alt="Backend and database technology icons"/>
-
-### 🤖 AI, Cloud & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,postman,vscode,figma&theme=dark&perline=8" alt="AI cloud and development tools"/>
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=3" alt="Mobile development technology icons"/>
+<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🚀 Developer Workspace
+## About Me
+
+Hello! I'm **Shivam Kumar**, a developer interested in creating modern web applications and exploring AI-powered technologies.
+
+* 💻 Interested in full-stack development.
+* ⚛️ Exploring modern frontend and backend technologies.
+* 🤖 Learning AI integration and application development.
+* ☁️ Exploring cloud technologies and developer tools.
+* 🌱 Improving my skills through continuous learning and practical projects.
+
+> *Learn continuously. Build thoughtfully. Improve every day.*
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated software developer coding"/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark&perline=8" alt="Frontend technology icons"/>
+
+<br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&theme=dark&perline=6" alt="Backend and database icons"/>
+
+<br/>
+
+**AI, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,postman,vscode,figma&theme=dark&perline=8" alt="AI, cloud and development tools"/>
+
+<br/>
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=3" alt="Mobile development icons"/>
+
+</div>
+
+---
+
+## Beyond the Code
+
+<div align="center">
+
+<img width="75%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software developer coding animation"/>
 
 <br/><br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
+<h3>💡</h3>
+<strong>Explore</strong>
 <br/>
-<img src="https://img.shields.io/badge/01-BUILD-0891B2?style=for-the-badge" alt="Build"/>
-<h4>Build</h4>
-<sub>Create modern web applications.</sub>
-<br/><br/>
+<sub>Discover new ideas.</sub>
 </td>
 <td align="center" width="33%">
+<h3>⚙️</h3>
+<strong>Build</strong>
 <br/>
-<img src="https://img.shields.io/badge/02-EXPLORE-7C3AED?style=for-the-badge" alt="Explore"/>
-<h4>Explore</h4>
-<sub>Discover new technologies.</sub>
-<br/><br/>
+<sub>Turn ideas into projects.</sub>
 </td>
 <td align="center" width="33%">
+<h3>🚀</h3>
+<strong>Grow</strong>
 <br/>
-<img src="https://img.shields.io/badge/03-IMPROVE-059669?style=for-the-badge" alt="Improve"/>
-<h4>Improve</h4>
-<sub>Learn through consistent practice.</sub>
-<br/><br/>
+<sub>Get better every day.</sub>
 </td>
 </tr>
 </table>
@@ -103,7 +105,7 @@ Hi! I'm **Shivam Kumar**, a developer passionate about web technologies, modern 
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Journey
 
 <div align="center">
 
@@ -117,33 +119,23 @@ Hi! I'm **Shivam Kumar**, a developer passionate about web technologies, modern 
 
 ---
 
-## 🌐 Connect With Me
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
-<br/><br/>
 
 <a href="mailto:shivamkumar48725@gmail.com">
-<img src="https://img.shields.io/badge/Email-shivamkumar48725%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shivam Kumar"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/shivamkumar0223">
-<img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/>
-</a>
-
-<br/><br/>
-
-### 💡 "Dream big. Build consistently. Never stop learning."
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+project+%F0%9F%9A%80" alt="Animated goodbye message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=35&lines=Thanks+for+stopping+by!;See+you+in+the+next+project+%F0%9F%9A%80" alt="Animated closing message"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=140&section=footer&animation=twinkling" alt="Animated blue footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=120&section=footer" alt="Profile footer"/>
 
