@@ -1,123 +1,112 @@
 <div align="center">
 
-# 👋 Hey, I'm Shivam Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:172554,100:2563eb&text=Shivam%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Shivam Kumar Profile Banner"/>
 
-### Full-Stack AI Developer · Founder of Orin AI
+<br/>
 
-**Turning ideas into intelligent products with AI and code.**
+<a href="https://github.com/shivamkumar0223">
+<img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
 
-I build AI-powered applications, modern web experiences, and intelligent automation solutions.
+<br/><br/>
 
-<p>
-  <a href="https://github.com/shivamkumar0223">
-    <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivamkumar48725@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shivamkumar0223?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shivamkumar48725@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/shivamkumar0223?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `01` — About Me
 
-* 💡 Passionate about building practical products with AI and modern web technologies.
-* 🚀 **Building Orin AI** — an AI-powered website creation and automation platform.
-* 🤖 Exploring generative AI, AI agents, and intelligent workflows.
-* 💻 Interested in full-stack development, scalable applications, and cloud technologies.
-* 🎓 Master of Computer Applications (MCA), Amity University Kolkata.
-* 🌱 Always learning, experimenting, and turning ideas into working products.
-* 📬 Reach me at **[shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)**.
+```javascript
+const shivam = {
+    name: "Shivam Kumar",
+    role: "Full-Stack Developer",
+    interests: [
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "AI Agents & Automation",
+        "Cloud Computing"
+    ],
+    technologies: {
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "PostgreSQL"],
+        tools: ["Git", "GitHub", "AWS"]
+    },
+    mindset: "Learn. Build. Improve. Repeat."
+};
+```
 
-## 🛠️ Tech Stack
+I'm passionate about building modern web applications and exploring how AI can make software development smarter, faster, and more accessible.
 
-### Frontend Development
+I enjoy experimenting with new technologies, solving development challenges, and transforming ideas into practical digital experiences.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend Technologies" />
-</p>
+## `02` — Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend and Database Technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=dark" alt="Backend and Database Technologies"/>
 
 ### AI, Cloud & Developer Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,figma" alt="AI, Cloud and Developer Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,figma&theme=dark" alt="AI, Cloud and Developer Tools"/>
 
 ### Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile Development Technologies" />
-</p>
-
-## 🌟 What I'm Building
-
-### 🚀 Orin AI
-
-**Build smarter. Create faster. Automate more.**
-
-Orin AI is an AI-powered platform focused on helping developers and creators build and customize websites through natural-language instructions, with a vision to simplify application development through AI.
-
-**Core focus:**
-
-* ✨ AI-powered website generation
-* 🎨 Interactive website editing and customization
-* 🤖 AI agents and workflow automation
-
-<p>
-  <a href="https://orin-two.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore-Orin%20AI-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Orin AI" />
-  </a>
-  <a href="https://github.com/shivamkumar0223?tab=repositories">
-    <img src="https://img.shields.io/badge/View-My%20Repositories-181717?style=for-the-badge&logo=github" alt="My Repositories" />
-  </a>
-</p>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0223&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=shivamkumar0223&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Development"/>
 
 </div>
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, exchanging ideas, exploring AI innovations, and discussing opportunities to build meaningful technology.
-
-* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shivam-kumar-871572249/)
-* 💻 **GitHub:** [Explore my work](https://github.com/shivamkumar0223)
-* 📧 **Email:** [Get in touch](mailto:shivamkumar48725@gmail.com)
-* 🌐 **Orin AI:** [Explore the project](https://orin-two.vercel.app/)
-
----
+## `03` — GitHub Statistics
 
 <div align="center">
 
-### 💭 My Philosophy
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&icon_color=60a5fa&text_color=e4e4e7" alt="GitHub Statistics"/>
 
-**Think boldly. Build consistently. Learn continuously.**
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0223&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7" alt="Most Used Languages"/>
 
-*Building today what I want to see in tomorrow's technology. 🚀*
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shivamkumar0223&theme=tokyonight&hide_border=true&background=09090b&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" alt="GitHub Streak Statistics"/>
 
 </div>
+
+## `04` — Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shivamkumar0223">
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shivamkumar48725@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Let's connect, exchange ideas, and build something meaningful.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563eb,50:172554,100:09090b&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
+
