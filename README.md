@@ -14,13 +14,13 @@
 <br/><br/>
 
 <a href="https://github.com/shivamkumar0223">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:shivamkumar48725@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -77,28 +77,19 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 <table>
 <tr>
 <td align="center" width="33%">
-
 <img src="https://img.shields.io/badge/01-BUILD-0891B2?style=for-the-badge" alt="Build"/>
-
 <h4>Build</h4>
 <sub>Create modern applications.</sub>
-
 </td>
 <td align="center" width="33%">
-
 <img src="https://img.shields.io/badge/02-EXPLORE-7C3AED?style=for-the-badge" alt="Explore"/>
-
 <h4>Explore</h4>
 <sub>Discover new technologies.</sub>
-
 </td>
 <td align="center" width="33%">
-
 <img src="https://img.shields.io/badge/03-IMPROVE-059669?style=for-the-badge" alt="Improve"/>
-
 <h4>Improve</h4>
 <sub>Learn through practice.</sub>
-
 </td>
 </tr>
 </table>
@@ -139,19 +130,19 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
 <a href="mailto:shivamkumar48725@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/shivamkumar0223">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
+<img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
 </a>
 
 <br/><br/>
@@ -164,3 +155,4 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=140&section=footer&animation=twinkling" alt="Animated footer"/>
 ```
+
