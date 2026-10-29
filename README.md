@@ -1,21 +1,123 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate Full-Stack Ai Engineer </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar0223" /> </p>
+# 👋 Hey, I'm Shivam Kumar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar0223" alt="https://https://www.linkedin.com/in/shivam-kumar-871572249/" /></a> </p>
+### Full-Stack AI Developer · Founder of Orin AI
 
-- 📫 How to reach me **shivamkumar48725@gmail.com**
+**Turning ideas into intelligent products with AI and code.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/shivam-kumar-871572249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shivam-kumar-871572249/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/825413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="825413" height="30" width="40" /></a>
+I build AI-powered applications, modern web experiences, and intelligent automation solutions.
+
+<p>
+  <a href="https://github.com/shivamkumar0223">
+    <img src="https://komarev.com/ghpvc/?username=shivamkumar0223&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivamkumar48725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shivamkumar0223?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkumar0223&show_icons=true&locale=en&layout=compact" alt="shivamkumar0223" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&locale=en" alt="shivamkumar0223" /></p>
+---
+
+## 🚀 About Me
+
+* 💡 Passionate about building practical products with AI and modern web technologies.
+* 🚀 **Building Orin AI** — an AI-powered website creation and automation platform.
+* 🤖 Exploring generative AI, AI agents, and intelligent workflows.
+* 💻 Interested in full-stack development, scalable applications, and cloud technologies.
+* 🎓 Master of Computer Applications (MCA), Amity University Kolkata.
+* 🌱 Always learning, experimenting, and turning ideas into working products.
+* 📬 Reach me at **[shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)**.
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend and Database Technologies" />
+</p>
+
+### AI, Cloud & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,figma" alt="AI, Cloud and Developer Tools" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile Development Technologies" />
+</p>
+
+## 🌟 What I'm Building
+
+### 🚀 Orin AI
+
+**Build smarter. Create faster. Automate more.**
+
+Orin AI is an AI-powered platform focused on helping developers and creators build and customize websites through natural-language instructions, with a vision to simplify application development through AI.
+
+**Core focus:**
+
+* ✨ AI-powered website generation
+* 🎨 Interactive website editing and customization
+* 🤖 AI agents and workflow automation
+
+<p>
+  <a href="https://orin-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore-Orin%20AI-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Orin AI" />
+  </a>
+  <a href="https://github.com/shivamkumar0223?tab=repositories">
+    <img src="https://img.shields.io/badge/View-My%20Repositories-181717?style=for-the-badge&logo=github" alt="My Repositories" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0223&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=shivamkumar0223&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exchanging ideas, exploring AI innovations, and discussing opportunities to build meaningful technology.
+
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shivam-kumar-871572249/)
+* 💻 **GitHub:** [Explore my work](https://github.com/shivamkumar0223)
+* 📧 **Email:** [Get in touch](mailto:shivamkumar48725@gmail.com)
+* 🌐 **Orin AI:** [Explore the project](https://orin-two.vercel.app/)
+
+---
+
+<div align="center">
+
+### 💭 My Philosophy
+
+**Think boldly. Build consistently. Learn continuously.**
+
+*Building today what I want to see in tomorrow's technology. 🚀*
+
+</div>
