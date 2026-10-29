@@ -79,15 +79,7 @@ I'm passionate about building modern web applications, exploring AI-powered tech
   <i>Building, learning, debugging, and improving one project at a time.</i>
 </p>
 
----
 
-## 🧊 My 3D GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
