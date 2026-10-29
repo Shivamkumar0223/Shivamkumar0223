@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:06B6D4&height=230&section=header&text=SHIVAM%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descSize=17&descAlignY=60&stroke=22D3EE&strokeWidth=1" alt="Animated profile header"/>
@@ -18,7 +19,7 @@
 <a href="https://www.linkedin.com/in/shivam-kumar-871572249/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:[shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)">
+<a href="mailto:shivamkumar48725@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -30,12 +31,12 @@
 
 Hi! I'm **Shivam Kumar**, a developer interested in building modern web applications and exploring artificial intelligence.
 
-* 💻 Interested in full-stack web development.
-* ⚛️ Exploring frontend frameworks and backend technologies.
-* 🤖 Learning about AI integration and intelligent applications.
-* ☁️ Exploring cloud computing and developer tools.
-* 🚀 Building practical projects to improve my skills.
-* 🌱 Always learning and improving my problem-solving abilities.
+- 💻 Interested in full-stack web development.
+- ⚛️ Exploring frontend frameworks and backend technologies.
+- 🤖 Learning about AI integration and intelligent applications.
+- ☁️ Exploring cloud computing and developer tools.
+- 🚀 Building practical projects to improve my skills.
+- 🌱 Always learning and improving my problem-solving abilities.
 
 **My goal:** To build useful, reliable, and user-friendly digital experiences.
 
@@ -55,7 +56,7 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 ### 🤖 AI, Cloud & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,postman,vscode,figma&theme=dark&perline=8" alt="AI cloud and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,postman,vscode,figma&theme=dark&perline=8" alt="AI, cloud and development tools"/>
 
 ### 📱 Mobile Development
 
@@ -95,19 +96,13 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 </div>
 
+---
 
-
-```html
-
-```html
-
-<!-- 🐍 GITHUB CONTRIBUTION SNAKE -->
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<h2>🐍 GitHub Contribution Journey</h2>
-
-<p><i>Keep contributing. Keep growing!</i></p>
+<p><i>Every contribution is a step forward. Keep building and growing!</i></p>
 
 <picture>
   <source
@@ -117,21 +112,18 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake.svg">
   <img
-    alt="Animated GitHub contribution snake"
+    alt="Animated GitHub contribution snake eating contribution squares"
     src="https://raw.githubusercontent.com/shivamkumar0223/shivamkumar0223/output/github-contribution-grid-snake.svg"
     width="100%">
 </picture>
 
-<br>
+<br/>
 
-<strong>🟩 Contributions • 🐍 Animated Snake • 🔄 Daily Updates</strong>
+<sub>🐍 An animated journey through my GitHub contributions.</sub>
 
 </div>
 
-<!-- END CONTRIBUTION SNAKE -->
-```
-
-
+---
 
 ## 🌐 Connect With Me
 
@@ -143,7 +135,7 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 
 <br/><br/>
 
-<a href="mailto:[shivamkumar48725@gmail.com](mailto:shivamkumar48725@gmail.com)">
+<a href="mailto:shivamkumar48725@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -162,5 +154,5 @@ Hi! I'm **Shivam Kumar**, a developer interested in building modern web applicat
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=140&section=footer&animation=twinkling" alt="Animated footer"/>
-
+```
 
